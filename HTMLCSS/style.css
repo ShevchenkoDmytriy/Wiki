@@ -1,0 +1,224 @@
+/* body, h2, p{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    font-size: 18px;
+}
+/* .header{
+
+    border-bottom: 1px solid #5bd1d7;
+    height: 80px;
+} */
+.wrapper{
+    background-color: white; 
+}
+.LeftPanel{
+    float: left; 
+    width: 160px;
+        font-size: 13px;
+        text-align: center;
+            display:list-item;
+}
+.main{
+    width: 100%;
+    margin-left: 160px;
+    border-left: 1px solid #5bd1d7;
+}
+.footer{
+
+    border-top: 1px solid #5bd1d7;
+}
+.Search
+{
+    border-bottom: 1px solid #5bd1d7;
+    height: 20px;
+padding-top: 10px;
+}
+ a{
+    text-decoration: none;
+}  
+.About{
+margin-left: 1%;
+margin-right: auto;
+}
+
+.Search1
+{
+padding: 0px 10px 0px 10px;
+        font-size: 15px;
+    border-bottom: 2px solid white;
+}
+.Search2
+{
+    height: 18px;
+padding: 0px 10px 1px 10px;
+margin: 0px 10px 0px -5px;
+        font-size: 15px;
+    border-left: 1px solid #5bd1d7;
+    border-right: 1px solid #5bd1d7;
+    background: linear-gradient( white,#9bc8ca);
+    color: blue;
+        margin-right: 50%;
+}
+.Search3
+{
+    padding: 0px 10px 1px 10px;
+        font-size: 15px;
+    border-bottom: 2px solid white;
+    border-left: 1px solid #5bd1d7;
+    border-right: 1px solid #5bd1d7;
+}
+.Search4
+{
+padding: 0px 10px 1px 10px;
+margin: 0px 0px 0px -5px;
+        font-size: 15px;
+    border-right: 1px solid #5bd1d7;
+    background: linear-gradient( white,#9bc8ca);
+    color: blue;
+}
+.Search5
+{
+    padding: 0px 10px 1px 10px;
+margin: 0px 10px 0px -5px;
+        font-size: 15px;
+    border-right: 1px solid #5bd1d7;
+    background: linear-gradient( white,#9bc8ca);
+    color: blue;
+}
+.Search6
+{
+    padding: 0px 10px 1px 10px;
+    margin: 0px 10px 0px -5px;
+    font-size: 15px;
+    border: 1px solid black;
+    width: 230px;
+}
+a:hover{
+    text-decoration:underline;
+} 
+.About1{
+    border: 1px solid rgb(175, 175, 175);
+    height: 100px;
+    width: 90%;
+    margin-top: 30px;
+    display: flex;
+}
+.form1
+{
+    display: flex;
+}
+.form2
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 400px;
+    width: 43.5%;
+    margin-top: 30px;
+    margin: 1%;
+    font-size: 14px;
+}
+.form3
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 350px;
+    width: 43.5%;
+    margin-top: 30px;
+    margin: 1%;
+    font-size: 14px;
+}
+.form4
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 400px;
+    width: 43.5%;
+    margin: 1%;
+    
+}
+.form5
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 455px;
+    width: 43.5%;
+    margin-left: 1%;
+    margin-top: -2%;
+    
+}
+.a1{
+    margin: 15px 0px 0px 0px;
+}
+.all{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 120px;
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+}
+.p1{
+    color: rgb(136, 136, 136);
+    border-bottom: 1px solid rgb(187, 187, 187);
+}
+.a3{
+    margin: -10px 0px 0px 0px;
+}
+.form6
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 250px;
+    width: 43.5%;
+    margin-top: 30px;
+    margin: 1%;
+}
+.form7
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 450px;
+    width: 43.5%;
+    margin: 1%;
+    font-size: 16px;
+}
+.form8
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 420px;
+    width: 43.5%;
+    margin-top: 30px;
+    margin: 1%;
+    margin-top: -10%;
+}
+.form9
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 450px;
+    width: 43.5%;
+    margin: 1%;
+}
+.form10
+{
+    border: 1px solid rgb(175, 175, 175);
+    height: 450px;
+    width: 90%;
+    margin-top: 1%;
+        margin-left: 1%;
+        text-align: center;
+        font-size: 25px;
+}
+.p2{
+    font-size: 13px;
+    margin-left: 1%;
+    height: 1%;
+}
+.p3{
+    width: 800px;
+    height: 100px;
+    margin-top: -10px;
+    margin-left: 1%;
+}
+.a4{
+    margin: 0px 20px 0px 20px;
+}
+.p4{
+    margin-left: 200px;
+}
